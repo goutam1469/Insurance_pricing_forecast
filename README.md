@@ -6,13 +6,13 @@ The aim of this project is to build and evaluate linear and xgboost regression m
 
 The insurance price forecast dataset contains historical records for 1338 insured
 customers. The column definitions are below
-● age: Age of the primary beneficiary.
-● sex: Gender of the primary beneficiary.
-● BMI: Body mass index of primary beneficiary
-● children: Number of children the primary beneficiary has.
-● smoker: Whether the primary beneficiary smokes.
-● region: The primary beneficiary's residential area in the US.
-● charges: Individual medical costs billed by health insurance.
+* age: Age of the primary beneficiary.
+* sex: Gender of the primary beneficiary.
+* BMI: Body mass index of primary beneficiary
+* children: Number of children the primary beneficiary has.
+* smoker: Whether the primary beneficiary smokes.
+* region: The primary beneficiary's residential area in the US.
+* charges: Individual medical costs billed by health insurance.
 
 ## Tech Stack
 ➔ Language: Python
