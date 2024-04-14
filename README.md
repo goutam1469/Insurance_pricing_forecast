@@ -1,4 +1,4 @@
-# Insurance_pricing_forecast
+# Insurance pricing forecast
 
 The aim of this project is to build and evaluate linear and xgboost regression models and determine the healthcare charges of each customer. This analysis will help the insurance firm to strategize a premium plan that will help maximize the profits.
 
