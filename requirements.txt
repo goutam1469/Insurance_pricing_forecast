@@ -1,0 +1,11 @@
+category_encoders
+pingouin
+numpy
+pandas
+scikit-learn
+xgboost
+sklearn
+matplotlib
+seaborn
+skopt
+scipy
